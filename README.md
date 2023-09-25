@@ -9,12 +9,13 @@ The Titanic disaster claimed the lives of more than 1,500 passengers and crew me
 ![image](https://github.com/Saeedafrough/Titanic/assets/144301639/3da689bd-0bd3-4822-b21c-4621b8ef07ed)
 
 
+
 The Titanic Dataset is a dataset curated on the basis of the passengers on titanic, like their age, class, gender, etc.. to predict if they would have survived or not. 
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 ![image](https://github.com/Saeedafrough/Titanic/assets/144301639/58574ae8-052b-4be7-98f7-e4360de98082)
 
-building a predictive model to analyze whether a random passenger will survive based on their age, gender, cabin, Fare, and more. First, we will visualize data and then, based on it, adjust the parameter values according to our requirements![image](https://github.com/Saeedafrough/Titanic/assets/144301639/f5a26bd1-b7a5-413e-aa1d-cb9c6a17df14)
+Building a predictive model to analyze whether a random passenger will survive based on their age, gender, cabin, Fare, and more. First, we will visualize data and then, based on it, adjust the parameter values according to our requirements![image](https://github.com/Saeedafrough/Titanic/assets/144301639/f5a26bd1-b7a5-413e-aa1d-cb9c6a17df14)
 
 Objectives :
 
